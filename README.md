@@ -1,10 +1,17 @@
 **1. Informasi Umum Aplikasi**
+
 Nama Aplikasi : Aplikasi Perpustakaan SiJess
+
 Jenis Aplikasi : Desktop Application
+
 Platform : Windows
+
 Bahasa Pemrograman : C# (.NET Framework 4.8)
+
 DBMS : MySQL
+
 IDE : Microsoft Visual Studio
+
 Library Utama : MySql.Data
 
 ## Fitur
